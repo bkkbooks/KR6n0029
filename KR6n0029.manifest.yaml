@@ -1,0 +1,93 @@
+canonical_identifier: bkk:krp/KR6n0029/v1
+canonical_location: https://kanripo.org/bkk/KR6n0029/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 成唯識論掌中樞要
+  identifiers:
+    alt_id:
+    - T43n1831
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T43/T43n1831.xml
+    old_id: T43n1831
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: 乙
+  label: 乙
+  source_xml_id: wit3
+- short: 丙
+  label: 丙
+  source_xml_id: wit4
+- short: 丁
+  label: 丁
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6n0029_000.yaml, hash: 'sha256:5e47576b1e536719ff819570d53bfd1c5b2d1985bac512486526a938d596e4cb'}
+  - {seq: 2, filename: KR6n0029_002.yaml, hash: 'sha256:bca1e5b9541a5cb5ee6ecaaec9d9d8f26ccda314ef86a92655d0935924f8ddc9'}
+  - {seq: 3, filename: KR6n0029_003.yaml, hash: 'sha256:3cccac4932ac508d6109ccc512d37609b02a0d10becfc1d47312fae8e6252651'}
+  - {seq: 4, filename: KR6n0029_004.yaml, hash: 'sha256:655bcab4ac55d83130a84d5a77dbbd22f38da2841a9ecbecfdcc633994576e15'}
+  - {seq: 5, filename: KR6n0029_005.yaml, hash: 'sha256:fbefabf4d889d350d55a31f5dec73fbb79554db9ede2f49d14d1282c74634c0d'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR6n0029_002.markers.yaml, hash: 'sha256:130de1743b0e4a5bc8070070256961b507ee9962e599d26009ec75f883f66abe'}
+  - {seq: 3, role: markers, filename: assets/KR6n0029_003.markers.yaml, hash: 'sha256:fbbc3759450573612a04bd02ec949558cb31a79223e5fefd4a5c7f724ab51649'}
+  - {seq: 4, role: markers, filename: assets/KR6n0029_004.markers.yaml, hash: 'sha256:803ba919ac0930eab21c2ba244f4857e5fa87c68da817c84cb037ffea8612ff6'}
+  - {seq: 5, role: markers, filename: assets/KR6n0029_005.markers.yaml, hash: 'sha256:405e18b4f92d4eb099cd5be2e4ad831b153a800198184548a103bb8591d06372'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6n0029_T_001a-juan-start
+    span:
+    - body
+    - 0
+    - 16610
+  label: 成唯識論掌中樞要卷上本
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6n0029_T_001b-juan-start
+    span:
+    - body
+    - 0
+    - 18497
+  label: 成唯識論掌中樞要卷上末
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6n0029_T_002a-juan-start
+    span:
+    - body
+    - 0
+    - 14592
+  label: 成唯識論掌中樞要卷下本上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6n0029_T_002b-juan-start
+    span:
+    - body
+    - 0
+    - 17064
+  label: 成唯識論掌中樞要卷下末
+  type: juan
+  level: 1
+hash: sha256:e20c32c8d1070cbef07ee916481f8964b9b7d1fe7eacdf616129b844d125dc80
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

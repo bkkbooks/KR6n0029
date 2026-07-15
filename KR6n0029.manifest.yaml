@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0029/v1
 canonical_location: https://kanripo.org/bkk/KR6n0029/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 成唯識論掌中樞要
   identifiers:
@@ -37,16 +37,16 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6n0029_000.yaml, hash: 'sha256:5e47576b1e536719ff819570d53bfd1c5b2d1985bac512486526a938d596e4cb'}
-  - {seq: 2, filename: KR6n0029_002.yaml, hash: 'sha256:ee972ccd98f455f9ebca04f42d2a84fd430829953ce7b708e032309cb063ca68'}
-  - {seq: 3, filename: KR6n0029_003.yaml, hash: 'sha256:b08b36d70aebfb4ce9b2f6134ed09967a6f743df853cc8bd3ddf79512e3de345'}
-  - {seq: 4, filename: KR6n0029_004.yaml, hash: 'sha256:01d661fe17ed4e6d6e5f390284437f96cec278f63e705dfc24e290319ed864e5'}
-  - {seq: 5, filename: KR6n0029_005.yaml, hash: 'sha256:cc9ba72ce6eb38251de4fe9f2dcf9a4e39c74c937721579b1fd1b3cba1919ef5'}
+  - {seq: 2, filename: KR6n0029_002.yaml, hash: 'sha256:9105f51a21082e22c10831416141ee6e48d741b98550c368c06a0b0dc73ffc08'}
+  - {seq: 3, filename: KR6n0029_003.yaml, hash: 'sha256:5e8b7d2f7222439f2afe89fedf4b72f303efb364823010127543b5d68964ebee'}
+  - {seq: 4, filename: KR6n0029_004.yaml, hash: 'sha256:9a9c1af137ea84ade541162071227245b786d508b94f49c1df67945b14574fc1'}
+  - {seq: 5, filename: KR6n0029_005.yaml, hash: 'sha256:0a3d05a9553461a127c237f1daeaeb1c9e23058088ebf15e60c5cd92a3f5890b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6n0029_000.markers.yaml, hash: 'sha256:d900f323f055476f1dd2b8582f081af862f1ec912f0ff75041191b2a9ea219eb'}
-  - {seq: 2, role: markers, filename: assets/KR6n0029_002.markers.yaml, hash: 'sha256:ae77b2c2e0daa6aad6f0afe3d588ace575b54bebbb973281ab3fc2f37a9d0118'}
-  - {seq: 3, role: markers, filename: assets/KR6n0029_003.markers.yaml, hash: 'sha256:02172628a5eda47cd9ba08a13b51477fc17d9b869d223dbcd0919df807820d5c'}
-  - {seq: 4, role: markers, filename: assets/KR6n0029_004.markers.yaml, hash: 'sha256:e55458fe4a2cec9e0a2ed6e11358255d5df85f39ea756cfe085fbcc6d3241eab'}
-  - {seq: 5, role: markers, filename: assets/KR6n0029_005.markers.yaml, hash: 'sha256:c50c3db0e1ff426486ee8d5fba177596d6c691c0696c6a740da7faf362ca6b15'}
+  - {seq: 2, role: markers, filename: assets/KR6n0029_002.markers.yaml, hash: 'sha256:7ba43257e9420e7f7da701c850e22b3efd0ea24232d5f9fdba47314c6158358f'}
+  - {seq: 3, role: markers, filename: assets/KR6n0029_003.markers.yaml, hash: 'sha256:7e0e8cb89d02f72f086d57b8f28ccb1281ac3fc2412b3f21a408bf0c08886d1e'}
+  - {seq: 4, role: markers, filename: assets/KR6n0029_004.markers.yaml, hash: 'sha256:a9c6a0ba6c415583f6d17c47802e5a9f7958416ae1e3ca389866bf4933efb907'}
+  - {seq: 5, role: markers, filename: assets/KR6n0029_005.markers.yaml, hash: 'sha256:2227f1a444c16acbd8ab5d04d1cb104190fd4a8da2416e25f2fa6744c4c34ebb'}
 table_of_contents:
 - ref:
     seq: 2
@@ -88,4 +88,7 @@ table_of_contents:
   label: 成唯識論掌中樞要卷下末
   type: juan
   level: 1
-hash: sha256:a1674260db822351b3686c5a660418868a74495c09659e88b1447c5aec46ea15
+hash: sha256:cea7e125eeaf044d7fb31eb5cc938c0382fc8f2bd9d25d4c8328ac4e26edd516
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
